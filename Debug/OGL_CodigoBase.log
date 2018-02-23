@@ -1,0 +1,20 @@
+﻿Build started 14/11/2017 11:56:15 p. m..
+     1>Project "C:\Users\eco_b\OneDrive\Documentos\AES\OGL_CodigoBase.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\OGL_CodigoBase.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ILibrerias /ZI /nologo /W0 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 3ds.cpp cargadorTGA.cpp Main.cpp Vector.cpp
+         Vector.cpp
+     1>c:\users\eco_b\onedrive\documentos\aes\main.h(13): fatal error C1083: Cannot open include file: 'GL/glaux.h': No such file or directory
+         Main.cpp
+     1>c:\users\eco_b\onedrive\documentos\aes\main.h(13): fatal error C1083: Cannot open include file: 'GL/glaux.h': No such file or directory
+         cargadorTGA.cpp
+     1>c:\users\eco_b\onedrive\documentos\aes\main.h(13): fatal error C1083: Cannot open include file: 'GL/glaux.h': No such file or directory
+         3ds.cpp
+     1>c:\users\eco_b\onedrive\documentos\aes\main.h(13): fatal error C1083: Cannot open include file: 'GL/glaux.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\eco_b\OneDrive\Documentos\AES\OGL_CodigoBase.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.75
